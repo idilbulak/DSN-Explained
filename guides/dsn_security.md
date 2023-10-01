@@ -13,7 +13,7 @@ $pass = "password";
 
 Instead, it's preferable to store DSN details in a configuration file or environment variables.
 
-## Using Environment Variables
+Using Environment Variables
 
 You can use environment variables to store your application's configuration details. This helps shield this information even if your code is viewed by others.
 

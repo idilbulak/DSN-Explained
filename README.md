@@ -47,7 +47,10 @@ Find scripts that can aid in generating, testing, and managing DSNs.
 1. **DSN Generator** ([dsn_generator.sh](scripts/dsn_generator.sh))
    - A script to assist in creating DSN strings based on user input.
    
-2. **DSN Tester** ([dsn_tester.py](scripts/dsn_tester.py))
+2. **DSN Tester** ([dsn_tester.php](scripts/dsn_tester.php))
    - Test the validity of a DSN by attempting a connection.
 
 For a complete list of utility scripts, [click here](scripts/).
+
+For more info, [click here](https://en.wikipedia.org/wiki/Data_source_name).
+

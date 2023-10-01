@@ -44,7 +44,7 @@ Delve deeper into DSN with advanced topics:
 
 Find scripts that can aid in generating, testing, and managing DSNs.
 
-1. **DSN Generator** ([dsn_generator.sh](scripts/dsn_generator.sh))
+1. **DSN Generator** ([dsn_generator.php](scripts/dsn_generator.php))
    - A script to assist in creating DSN strings based on user input.
    
 2. **DSN Tester** ([dsn_tester.php](scripts/dsn_tester.php))
